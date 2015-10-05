@@ -7,6 +7,7 @@
     Website:
         SuperSonic Software Foundation: http://supersonic-org.cf
         Star Inc.: http://startw.cf
+        Star Neptune Bot: http://snb.startw.cf
     License: Mozilla Public License 2.0
 """
 
