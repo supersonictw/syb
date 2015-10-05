@@ -2,7 +2,7 @@
 """
     Star Yuuki Bot
     ~~~~~~~~~~~
-    LineClient for sending and receiving message from LINE server.
+    Version:0.0001
     Copyright: (c) 2015 SuperSonic Software Foundation and  Star Inc.
     Website:
         SuperSonic Software Foundation: http://supersonic-org.cf
